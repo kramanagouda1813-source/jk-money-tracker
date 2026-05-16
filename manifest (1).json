@@ -1,0 +1,25 @@
+{
+  "name": "JK Money Tracker",
+  "short_name": "JK Tracker",
+  "description": "Personal finance tracker for JK",
+  "start_url": "/jk-money-tracker/",
+  "scope": "/jk-money-tracker/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a6b7a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
